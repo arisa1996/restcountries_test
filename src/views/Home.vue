@@ -100,7 +100,7 @@ export default {
       }
     },
     reverseSum () {
-      return this.countriydata.reverse()
+      return this.pageContent.reverse()
     },
     openDetails (countryName, code) {
       if (code) {
